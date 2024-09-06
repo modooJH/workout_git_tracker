@@ -23,3 +23,4 @@ git 실습 진행시 이 폴더 복사해서 가져가서 사용하세요.  git 
 
 issue 2 close
 issue 7 close - feature
+issue 9 close - animation
